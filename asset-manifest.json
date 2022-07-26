@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/librarything/static/css/main.cb840a33.css",
+    "main.js": "/librarything/static/js/main.25ca1d61.js",
+    "static/js/787.d018a28f.chunk.js": "/librarything/static/js/787.d018a28f.chunk.js",
+    "static/media/bg1.png": "/librarything/static/media/bg1.7b6b7467cd83f4871538.png",
+    "static/media/bg2.png": "/librarything/static/media/bg2.fa44efe5b0a3e7f43340.png",
+    "index.html": "/librarything/index.html",
+    "main.cb840a33.css.map": "/librarything/static/css/main.cb840a33.css.map",
+    "main.25ca1d61.js.map": "/librarything/static/js/main.25ca1d61.js.map",
+    "787.d018a28f.chunk.js.map": "/librarything/static/js/787.d018a28f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb840a33.css",
+    "static/js/main.25ca1d61.js"
+  ]
+}
